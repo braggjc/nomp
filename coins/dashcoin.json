@@ -1,0 +1,6 @@
+{
+    "name": "Dashcoin",
+    "symbol": "DSH",
+    "algorithm": "x11",
+    "mposDiffMultiplier": 256
+}
